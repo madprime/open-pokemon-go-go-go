@@ -1,0 +1,24 @@
+Thank you for contributing to Open Pokemon GO GO GO!
+
+Your survey responses indicated you're willing to contribute to a brief weekly
+survey. Thank you! Here's the link to the survey:
+https://docs.google.com/forms/d/e/1FAIpQLSfgA176ysPp75tiIjiTWh-S7YqCBVg7_933Szz5wTR8vBM0zg/viewform?entry.2060046009={{ PROJECT_MEMBER_ID }}
+
+If you no longer want to contribute weekly surveys, you can indicate that in
+the survey linked above.
+
+So far 24 folks have signed up to share with this project, enabling others to
+explore activity data and the Pokemon GO phenomenon! We're planning to make
+our first public data release next week.
+
+Know anyone else that might want to contribute? Please feel free to share
+the website with them: http://openpokemon.science/
+
+Note: Weekly surveys were intended to record Pokemon GO usage. According to
+your previous survey, you hadn't installed the game. Weekly surveys make
+sense if you've installed the game -- or are planning to. If not, you might
+want to opt out of future weekly surveys.
+
+Thanks again!
+
+Madeleine
